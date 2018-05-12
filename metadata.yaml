@@ -37,6 +37,8 @@ creator:
     - http://en.wikipedia.org/wiki/Alphonse_de_Lamartine
     - http://fr.wikipedia.org/wiki/Alphonse_de_Lamartine
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25339#Atheism-Among-the-People
 gutenberg_issued: '2008-05-05'
 gutenberg_type: Text
 identifiers:
