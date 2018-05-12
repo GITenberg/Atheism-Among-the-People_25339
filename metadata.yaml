@@ -1,0 +1,53 @@
+_repo: Atheism-Among-the-People_25339
+_version: 0.1.0
+contributor:
+  translators:
+  - agent_name: Hale, Edward Everett
+    aliases:
+    - Darragh, J. Thomas
+    - Ingham, Frederic
+    - Hale, E. E. (Edward Everett)
+    - Hale, Edward E.
+    birthdate: 1822
+    deathdate: 1909
+    gutenberg_agent_id: '650'
+    url: http://www.gutenberg.org/2009/agents/650
+    wikipedia: http://en.wikipedia.org/wiki/Edward_Everett_Hale
+  - agent_name: Le Baron, Francis
+    alias: Baron, Francis Le
+    birthdate: 1824
+    deathdate: 1911
+    gutenberg_agent_id: '31261'
+    url: http://www.gutenberg.org/2009/agents/31261
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lamartine, Alphonse de
+    aliases:
+    - Lamartine de Prat, Alphonse-Marie-Louis de
+    - De Lamartine, Alphonse
+    - Lamartine, Alphonse Marie Louis de
+    birthdate: 1790
+    deathdate: 1869
+    gutenberg_agent_id: '4781'
+    url: http://www.gutenberg.org/2009/agents/4781
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Alphonse_de_Lamartine
+    - http://fr.wikipedia.org/wiki/Alphonse_de_Lamartine
+description: ''
+gutenberg_issued: '2008-05-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25339'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Atheism'
+- !lcsh 'Apologetics'
+- !lcc 'BT'
+title: Atheism Among the People
+url: http://www.gutenberg.org/ebooks/25339
